@@ -1,0 +1,12 @@
+.btn {
+  font-size: 14px;
+  border-radius: 6px;
+  padding: 20px;
+  border: none;
+  font-weight: bold;
+}
+
+.btn-info {
+  background-color: #1d809f;
+  color: white;
+}
